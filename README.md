@@ -1,6 +1,6 @@
 # adv_basics
 
-A new Flutter project.
+This Project was for learning different debugging techneiqes and how can I use Flutter DevTools for better understanding and more specific details.
 
 ## Getting Started
 
